@@ -1,3 +1,4 @@
+example.organization.property: "I AM THE PROD ORGANIZATION SERVICE"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
